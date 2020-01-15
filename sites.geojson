@@ -24,6 +24,7 @@
                 "details": "<a href='https://hub.datascience.wisc.edu/research-bazaar-madison-wi-january-24-25-2020/'>Madison</a>"
             }
 	 }, 
+	    {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
