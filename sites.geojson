@@ -24,6 +24,16 @@
                 "details": "<a href='https://hub.datascience.wisc.edu/research-bazaar-madison-wi-january-24-25-2020/'>Madison</a>"
             }
 	 }, 
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[153.0137, -27.4975]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='./brisbane'>Brisbane</a>"
+            }
+	 }, 
 	    {
             "type": "Feature",
             "geometry": {
