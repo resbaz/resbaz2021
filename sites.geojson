@@ -45,7 +45,18 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='./sydney'>Sydney</a>"
             }
-	 }
+	 }, 
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[151.6388, -30.4899]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='./armidale'>Armidale</a>"
+            }
+     }
     ]
 }
 
