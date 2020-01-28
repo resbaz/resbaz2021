@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>ResBaz UNE 2020</title>
+
+  <link rel="stylesheet" src="../css/style.css"/>
+  <script src="../bower_components/webcomponentsjs/webcomponents-lite.js"></script>
+
+  <link rel="import" href="../components/contact-icons.html">
+  <link rel="import" href="../components/csv-table.html">
+  <link rel="import" href="../components/embedded-google-sheet.html">
+  <link rel="import" href="../components/expandable-heading.html">
+  <link rel="import" href="../components/remote-markdown.html">
+  <link rel="import" href="../components/simple-columns.html">
+  <link rel="import" href="../components/venue-map.html">
+  <link rel="import" href="../bower_components/paper-button/paper-button.html">
+  <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
+  <link rel="import" href="../bower_components/app-layout/app-layout.html">
+  <link rel="import" href="../bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
+
+  <link rel="import" href="../components/common-style.html">
+  <link rel="import" href="../components/resbaz-header.html">
+  <link rel="icon" type="image/png" href="../img/favicon.png" />
+  <style is="custom-style">
+  resbaz-header {
+    --header-height: 50vh;
+    --header-background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(../img/armidale-une.jpg);
+  }
+  table, th , td {border: 1px solid black;border-collapse:collapse}
+  </style>
+</head>
+<body unresolved>
+  <resbaz-header title="ResBaz UNE 2020">
+    <h1>ResBaz UNE 2020</h1>
+    <h2>September 2020</h2>
+    <!--<div class="actions">
+      <a href="index.html#contact-us">
+        <paper-button raised>Contact Us</paper-button>
+      </a>
+    </div>-->
+  </resbaz-header>
+
+  <article>
+    <section id="latest">
+      <remote-markdown url="latest.md">
+        <div class="markdown-html"></div>
+      </remote-markdown>
+    </section>
+
+    <hr/>
+    <p style="font-size: 0.9rem;font-style: italic;">Banner image: <a href="https://www.flickr.com/photos/10708380@N04/14773138812">"Dangar Canyon and Falls"</a><span> by <a href="https://www.flickr.com/photos/10708380@N04">Winam</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-ND 2.0</a><a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nd_icon.svg" /></a></p>
+
+ </article>
+
+  <footer>
+  <p style="padding-bottom:20px;">
+    Copyright &copy; University of New England, 2020
+    <br/>
+    </p>  
+  </footer>
+  
+</body>
+</html>
