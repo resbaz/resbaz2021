@@ -1,0 +1,16 @@
+{
+    "type": "FeatureCollection",
+    "features": [    
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[115.851013116255, -31.953853029653242]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "Venue TBC"
+            }
+        }
+    ]
+}
