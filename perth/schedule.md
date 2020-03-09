@@ -61,12 +61,11 @@ Plus we have scheduled in time for community sessions each day during which we w
   </tr>
   <tr>
     <td class="tg-c3ow" rowspan="2">03:30</td>
-    <td class="tg-c3ow">Electives&nbsp;&nbsp;</td>
+    <td class="tg-c3ow"  rowspan="2">Electives</td>
     <td class="tg-c3ow">Electives</td>
     <td class="tg-c3ow">Electives</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Electives</td>
     <td class="tg-c3ow">Community session</td>
     <td class="tg-c3ow">Community session</td>
   </tr>
