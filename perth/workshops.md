@@ -10,11 +10,7 @@ Edith Cowan University
 
 <img alt="Murdoch uni logo" src="logos/Murdoch_land_4col.png" width="200">
 
-## Gold Sponsor
+## Gold / Silver / Bronze Sponsors TBC
 
-## Silver Sponsors
-
-## Bronze Sponsors
-
-### Want to become a sponsor?
-Contact us at perth@resbaz.edu.au
+## Want to become a sponsor?
+Contact us: <contact-icons email="perth@resbaz.edu.au" ></contact-icons>
