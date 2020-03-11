@@ -4,7 +4,7 @@ The Research Bazaar (ResBaz) is a worldwide festival promoting the digital liter
 
 Perth's ResBaz is a low-cost, 3-day intensive festival and (un-)conference where researchers come together to up-skill in next generation digital research tools and scholarship. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun. 
 
-ResBaz Perth 2020 will be hosted by the Edith Cowan University in early July, venue TBC. 
+ResBaz Perth 2020 will be hosted by Edith Cowan University in early July, venue TBC. 
 
 To understand a little more about ResBaz, watch the video 'Intro to ResBaz Perth' below! 
 

@@ -6,7 +6,7 @@ We will announce the streams in April and you can look forward to a range of opt
 Don't forget apart from the stream workshops we will also have plenty of elective classes which you choose each day at the bazaar. The electives typically cover some of the "softer" skills on how to promote your research and CV advice, as well as some more advanced technical subjects like cloud computing or LaTeX.
 
 Plus we have scheduled in time for community sessions each day during which we will bring all participants together to work on a common project or to hear from keynote speakers and panels.
-
+To get an idea of what to expect you can check out last year's schedule [here](https://resbaz.github.io/resbaz2019/perth/#schedule).
 
 
 <style type="text/css">
