@@ -3,13 +3,12 @@
 ## Host and sponsor extraordinaire
 Edith Cowan University
 
-![ECU](logos/ECU_png.png)
+<img alt="ECU logo" src="logos/ECU_png.png" width="400">
 
 ## University Sponsors
+<img alt="Curtin uni logo" src="logos/Curtin_MasterLogoCMYK.png" width="200">
 
-![Curtin](logos/Curtin_MasterLogoCMYK.png)
-
-![Murdoch](logos/Murdoch_land_4col.png)
+<img alt="Murdoch uni logo" src="logos/Murdoch_land_4col.png" width="200">
 
 ## Gold Sponsor
 
