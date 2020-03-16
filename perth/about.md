@@ -1,7 +1,7 @@
 # About
 
-**In light of recent developments, we are currently looking at moving the event towards the end of the year.**
-We endavour to announce the venue and dates as soon as possible. 
+**In light of recent developments, we are currently looking at holding the event towards the end of the year.**
+We endeavor to announce the venue and dates as soon as possible. 
 
 The Research Bazaar (ResBaz) is a worldwide festival promoting the digital literacy emerging at the centre of modern research. Throughout 2020 events will be held at a number of university campuses around the globe.
 
@@ -27,7 +27,7 @@ Researchers at all levels from all disciplines. PhD and research Masters student
 
 ResBaz is particularly aimed at those new to digital research tools. To hear from trainers and participants of the 2019 ResBaz Perth, watch the 'ResBaz testimonials' video below!
 
-To get an idea of what will be taught at Resbaz check our preliminary Schedule below.
+To get an idea of what will be taught at ResBaz check our preliminary Schedule below.
   
 <style type="text/css">
 .centered {
