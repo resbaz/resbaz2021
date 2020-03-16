@@ -1,7 +1,8 @@
 # Schedule
 
+Tweet your ideas for streams and electives using the hashtag #PerthResBaz.
+
 This year we will offer several parallel streams to cater to new as well as more seasoned learners and you will be able to choose which one to attend during registration. 
-We will announce the streams in April and you can look forward to a range of options, including Introductory as well as Intermediate R and Python.
 
 Don't forget apart from the stream workshops we will also have plenty of elective classes which you choose each day at the bazaar. The electives typically cover some of the "softer" skills on how to promote your research and CV advice, as well as some more advanced technical subjects like cloud computing or LaTeX.
 
