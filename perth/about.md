@@ -1,11 +1,10 @@
-#PSA
+# PSA
 
 **In light of the ever-evolving COVID-19 developments, the program organising committee has decided to cancel the 2020 ResBaz Perth.**
-However, even though there won't be one 3-day face-to-face event this year we have decided to open and  promote as many of the eResearch related training at each of the universities to the wider WA academic community.
 
-If you want to stay up-to-date with upcoming virtual training you can either join our [mailing list](http://eepurl.com/cpLx6r) or follow us on [Twitter](https://twitter.com/ResBazPerth).
-
-We will also endevaour to link to upcoming training from this webpage, please check the [Schedule](https://curtinic.github.io/resbaz2020/perth/#schedule).
+However, even though there won't be one 3-day face-to-face event this year we have decided to open and  promote as many of **virtual the eResearch related training** at each of the universities to the wider WA academic community. </br>
+If you want to **stay up-to-date** with upcoming virtual training you can either join our **[mailing list](http://eepurl.com/cpLx6r)** or follow us on **[Twitter](https://twitter.com/ResBazPerth)**. </br>
+We will also endeavour to link to upcoming training from this webpage, please check the [Schedule](https://curtinic.github.io/resbaz2020/perth/#schedule).
 
 In the meantime we are working on bringing you a great face-to-face ResBaz in 2021.
 
@@ -45,6 +44,6 @@ To get an idea of what will be taught at ResBaz check our preliminary Schedule b
         <iframe allowFullScreen frameborder="0" style="padding:20px" id="youtube" src="https://www.youtube.com/embed/UGUdCUC-voM" title="ResBaz Testimonials" width="322" height="180" class="graphic"></iframe>
       </div>
 
-# Code of COnduct
+## Code of COnduct
 
 ResBaz is an inclusive event and we value your attendance. We expect participants to follow the [ResBaz Code of Conduct](https://resbazblog.wordpress.com/code-of-conduct/) at any face-to-face or virtual events. 
