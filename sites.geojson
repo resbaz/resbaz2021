@@ -56,7 +56,18 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='./armidale'>Armidale</a>"
             }
-     }
+     },
+    {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[115.89467, -32.00618]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='./perth'>Perth</a>"
+            }
+         }
     ]
 }
 
