@@ -1,6 +1,6 @@
-# Website for ResBaz 2020
+# Website for ResBaz 2021
 
-This repository contains the code for the [ResBaz 2020 website](https://resbaz.github.io/resbaz2020/).
+This repository contains the code for the [ResBaz 2021 website](https://resbaz.github.io/resbaz2021/).
 
 ## Creating a new site page using our template
 
@@ -15,7 +15,7 @@ by replacing the username and city details in the following URL:
 `https://username.github.io/resbaz2020/city/`
 
 Once your pull request has been accepted,
-your page will go live on the actual ResBaz 2020 website.
+your page will go live on the actual ResBaz 2021 website.
 You (or a nominated person from your organising team)
 will then be added as a collaborator to this repository so that
 you can make future edits to your page directly
