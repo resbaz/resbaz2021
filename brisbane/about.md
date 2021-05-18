@@ -20,4 +20,6 @@ ResBaz Brisbane will definitely be one of the most worthwhile networking and ski
 
 # How can I get involved
 
-If you would like to get involved in Research Bazaar 2021, let us know! [Get Involved Here!](https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform)
+If you would like to get involved in Research Bazaar 2021, let us know!
+
+You may want to run a class or workshop, do a talk, chair a panel discussion, offer a social activity, run a stall, or even sponsor some or all of the event. You may simply want to get on a mailing list to hear more as our plans for ResBaz 2021 firm up. Whatever you want to do, you can let us know through [this form](https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform). We look forward to hearing from you.
