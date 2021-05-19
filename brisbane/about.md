@@ -1,10 +1,14 @@
-# About ResBaz Brisbane 2021
+# About ResBaz Queensland 2021
 
 Research Bazaar is a low cost skill- and community-building festival where researchers come together to upskill in digital research tools and scholarship. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun.
 
-The 2021 Brisbane Research Bazaar will be held in the [Advanced Engineering Building](https://www.eait.uq.edu.au/aeb) at [The University of Queensland](https://www.uq.edu.au/) from **24 to 26 November, 2021**, as a joint collaboration with Queensland University of Technology, Griffith University, the University of Southern Queensland, and the Queensland Cyber Infrastructure Foundation (QCIF). 
+The 2021 Queensland Research Bazaar will be held in the [Advanced Engineering Building](https://www.eait.uq.edu.au/aeb) at [The University of Queensland](https://www.uq.edu.au/) from **24 to 26 November, 2021**, as a joint collaboration with Queensland University of Technology, Griffith University, the University of Southern Queensland, and the Queensland Cyber Infrastructure Foundation (QCIF). This will be a hybrid event, with face-to-face workshops and sessions complemented by streaming sessions that will be beamed out to other Queensland universities.
 
-There will be also be a **one-day satellite event on 26 November at Griffith's Gold Coast campus**. This one-day event is being coordinated by staff from Griffith University, Bond University, Southern Cross University and the University of New England.
+Because we aim to go state-wide, we are calling this year's event **ResBaz Queensland** rather than **ResBaz Brisbane**. 
+
+There will also be a **one-day, in-person satellite event on Friday, 26 November at Griffith's Gold Coast campus**. This one-day event is being coordinated by staff from Griffith University, Bond University, Southern Cross University and the University of New England.
+
+We also plan to offer streaming to remote universities across Queensland such as James Cook Uniersity and CQUniversity. We may also potentially sharestreaming sessions with ResBaz Sydney.
 
 The aim of ResBaz is to equip researchers from all career stages and disciplines with the digital skills and tools required to do their research better, faster, and smarter.
 
