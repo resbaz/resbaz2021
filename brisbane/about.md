@@ -2,7 +2,7 @@
 
 Research Bazaar is a low cost skill- and community-building festival where researchers come together to upskill in digital research tools and scholarship. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun.
 
-The 2021 Brisbane Research Bazaar will be held in the Advanced Engineering Building at The University of Queensland from **24 to 26 November, 2021**, as a joint collaboration with Queensland University of Technology, Griffith University, the University of Southern Queensland, and the Queensland Cyber Infrastructure Foundation (QCIF). 
+The 2021 Brisbane Research Bazaar will be held in the [Advanced Engineering Building](https://www.eait.uq.edu.au/aeb) at [The University of Queensland](https://www.uq.edu.au/) from **24 to 26 November, 2021**, as a joint collaboration with Queensland University of Technology, Griffith University, the University of Southern Queensland, and the Queensland Cyber Infrastructure Foundation (QCIF). 
 
 There will be also be a **one-day satellite event on 26 November at Griffith's Gold Coast campus**. This one-day event is being coordinated by staff from Griffith University, Bond University, Southern Cross University and the University of New England.
 
@@ -22,4 +22,4 @@ ResBaz Brisbane will definitely be one of the most worthwhile networking and ski
 
 If you would like to get involved in Research Bazaar 2021, let us know!
 
-You may want to run a class or workshop, do a talk, chair a panel discussion, offer a social activity, run a stall, or even sponsor some or all of the event. You may simply want to get on a mailing list to hear more as our plans for ResBaz 2021 firm up. Whatever you want to do, you can let us know through [this form](https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform). We look forward to hearing from you.
+You may want to run a class or workshop, do a talk, chair a panel discussion, offer a social activity, run a stall, or even sponsor some or all of the event. You may simply want to get on a mailing list to hear more as our plans for ResBaz 2021 firm up. Whatever you want to do, you can let us know through **[this form]**(https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform). We look forward to hearing from you.
