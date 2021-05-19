@@ -18,7 +18,7 @@ The event is aimed at researchers at all levels and from all disciplines. We exp
 
 ResBaz Brisbane will definitely be one of the most worthwhile networking and skill-building opportunities you can attend in Brisbane this year - and it's fantastic value.  
 
-# How can I get involved
+# How can I get involved?
 
 If you would like to get involved in Research Bazaar 2021, let us know!
 
