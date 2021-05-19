@@ -1,8 +1,8 @@
 ### Latest News
 
-Planning is currently underway for 2021 ResBaz events in both Brisbane and Gold Coast. We are also contemplating involving other universities sucha s JCU and CQUniversity via live streaming of talks and sessions. We are also looking to partner with Sydney ResBaz in sharing live streamed events.
+Planning is currently underway for 2021 ResBazQld events in both Brisbane and Gold Coast and streaming statewide. Statewide streaming will allow more remote universities such as JCU and CQUniversity to take part via live streaming of talks and sessions. We are also looking to partner with Sydney ResBaz in sharing live streamed events.
 
-What do YOU want to see and do at ResBaz Brisbane? 
+What do YOU want to see and do at ResBaz Queensland? 
 
 We are interested in hearing from people who want to
 
@@ -14,10 +14,10 @@ We are interested in hearing from people who want to
 - run social events
 - run a stall 
 
-No matter wat you want to do, you can [register your interest here](https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform). 
+No matter what you want to do, you can [register your interest here](https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform). 
 
-Brisbane ResBaz will take place from 24-26 November at [The University of Queensland](https://www.uq.edu.au/). The venue is the [Advanced Engineering Building](https://www.eait.uq.edu.au/aeb). 
+ResBaz Queensland will take place from 24-26 November at [The University of Queensland](https://www.uq.edu.au/). The venue is the [Advanced Engineering Building](https://www.eait.uq.edu.au/aeb). Watch here for the latest news and announcements.
 
 In a Queensland first for ResBaz, there will be a one-day satellite event at Griffith University's Gold Coast campus on 26 November. This one-day event is being organised for researchers by staff from Griffith, Bond University, Southern Cross University and the University of New England.
 
-Stay tuned for updates.
+Stay tuned for updates or follow [ResBazQld](https://twitter.com/ResBazQld) on Twitter. 
