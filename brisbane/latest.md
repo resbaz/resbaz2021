@@ -1,8 +1,22 @@
 ### Latest News
 
-Planning is currently underway for 2021 ResBaz events in both Brisbane and Gold Coast.
+Planning is currently underway for 2021 ResBaz events in both Brisbane and Gold Coast. We are also contemplating involving other universities sucha s JCU and CQUniversity via live streaming of talks and sessions. We are also looking to partner with Sydney ResBaz in sharing live streamed events.
 
-Brisbane ResBaz will take place from 24-26 November at The University of Queensland. The venue is the Advanced Engineering Building. 
+What do YOU want to see and do at ResBaz Brisbane? 
+
+We are interested in hearing from people who want to
+
+- run a workshop
+- do a talk
+- convene a panel
+- volunteer as a helper, either with planning or during the event
+- sponsor the event
+- run social events
+- run a stall 
+
+No matter wat you want to do, you can [register your interest here](https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform). 
+
+Brisbane ResBaz will take place from 24-26 November at [The University of Queensland](https://www.uq.edu.au/). The venue is the [Advanced Engineering Building](https://www.eait.uq.edu.au/aeb). 
 
 In a Queensland first for ResBaz, there will be a one-day satellite event at Griffith University's Gold Coast campus on 26 November. This one-day event is being organised for researchers by staff from Griffith, Bond University, Southern Cross University and the University of New England.
 
