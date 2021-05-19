@@ -12,7 +12,7 @@ We also plan to offer streaming to remote universities across Queensland such as
 
 The aim of ResBaz is to equip researchers from all career stages and disciplines with the digital skills and tools required to do their research better, faster, and smarter.
 
-Follow [@ResBazBris](https://twitter.com/ResBazBris) or the hashtag [#ResBazBris](https://twitter.com/search?q=%23ResBazBris&src=tyah) on Twitter for the latest news and announcements.
+Follow [@ResBaQld](https://twitter.com/ResBazQld) or the hashtag [#ResBazQld](https://twitter.com/search?q=%23ResBazQld&src=tyah) on Twitter for the latest news and announcements.
 
 # Who can attend?
 
@@ -24,6 +24,6 @@ ResBaz Brisbane will definitely be one of the most worthwhile networking and ski
 
 # How can I get involved?
 
-If you would like to get involved in Research Bazaar 2021, let us know!
+If you would like to get involved in Research Bazaar 2021, please let us know!
 
-You may want to run a class or workshop, do a talk, chair a panel discussion, offer a social activity, run a stall, or even sponsor some or all of the event. You may simply want to get on a mailing list to hear more as our plans for ResBaz 2021 firm up. Whatever you want to do, you can let us know through **[this form]**(https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform). We look forward to hearing from you.
+You may want to run a class or workshop, do a talk, chair a panel discussion, offer a social activity, run a stall, or even sponsor some or all of the event. You may simply want to get on a mailing list to hear more as our plans for ResBaz 2021 firm up. Whatever you want to do, you can let us know through **[this form]**(https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform). Do join us! We look forward to hearing from you.
