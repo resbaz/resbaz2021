@@ -67,6 +67,17 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='./perth'>Perth</a>"
             }
+         },
+         {
+             "type" : "Feature",
+             "geometry" : {
+                 "type": "Point",
+                 "coordinates": [170.5158257, -45.8661452]
+             },
+             "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='./dunedin'>Dunedin</a>"
+            }
          }
     ]
 }
