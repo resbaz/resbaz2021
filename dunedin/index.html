@@ -2,122 +2,116 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="">
-  <meta name="author" content="">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-  <title>ResBaz Dunedin 2019</title>
+    <title>ResBaz Dunedin 2019</title>
 
-  <link rel="stylesheet" src="../css/style.css" />
-  <script src="../bower_components/webcomponentsjs/webcomponents-lite.js"></script>
+    <link rel="stylesheet" src="../css/style.css" />
+    <script src="../bower_components/webcomponentsjs/webcomponents-lite.js"></script>
 
-  <link rel="import" href="../components/contact-icons.html">
-  <link rel="import" href="../components/csv-table.html">
-  <link rel="import" href="../components/embedded-google-sheet.html">
-  <link rel="import" href="../components/expandable-heading.html">
-  <link rel="import" href="../components/remote-markdown.html">
-  <link rel="import" href="../components/simple-columns.html">
-  <link rel="import" href="../components/venue-map.html">
-  <link rel="import" href="../bower_components/paper-button/paper-button.html">
-  <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
-  <link rel="import" href="../bower_components/app-layout/app-layout.html">
-  <link rel="import" href="../bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
+    <link rel="import" href="../components/contact-icons.html">
+    <link rel="import" href="../components/csv-table.html">
+    <link rel="import" href="../components/embedded-google-sheet.html">
+    <link rel="import" href="../components/expandable-heading.html">
+    <link rel="import" href="../components/remote-markdown.html">
+    <link rel="import" href="../components/simple-columns.html">
+    <link rel="import" href="../components/venue-map.html">
+    <link rel="import" href="../bower_components/paper-button/paper-button.html">
+    <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
+    <link rel="import" href="../bower_components/app-layout/app-layout.html">
+    <link rel="import" href="../bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
 
-  <link rel="import" href="../components/common-style.html">
-  <link rel="import" href="../components/resbaz-header.html">
-  <style is="custom-style">
-    resbaz-header {
-      --header-height: 50vh;
-      --header-background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(dunedin.jpg);
-    }
-  </style>
+    <link rel="import" href="../components/common-style.html">
+    <link rel="import" href="../components/resbaz-header.html">
+    <style is="custom-style">
+        resbaz-header {
+            --header-height: 50vh;
+            --header-background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(dunedin.jpg);
+        }
+    </style>
 </head>
 
 <body unresolved>
-  <resbaz-header title="ResBaz Dunedin">
-    <h1>Dunedin</h1>
-    <h2>5 -7 July, 2021</h2>
-  </resbaz-header>
-  <article>
-    <section id="full">
-      <h2>Registration will be opening soon...</h1>
-	    <!--<h1>Registration</h1>
+    <resbaz-header title="ResBaz Dunedin">
+        <h1>Dunedin</h1>
+        <h2>5 -7 July, 2021</h2>
+    </resbaz-header>
+    <article>
+        <section id="full">
+            <h2>Registration will be opening soon...</h1>
+                <!--<h1>Registration</h1>
 	    <iframe src="https://www.eventbrite.com/tickets-external?eid=54390966846&ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"> </iframe>
       -->
-	
-    
-    <h2>Timetable</h2>
-	    <p>Please check back before the event for updates</p>
-	    
-        
-	    
-        <h3>Day 1</h3>
-        <section id="timetable-day1">
-            <csv-table url="day1.csv" heading-columns="1" heading-rows="1" style="font-size: 75%">
-            </embedded-google-sheet>
+                <section id="venue">
+                    <h2>Venue</h2>
+                    <p>The workshops will be held in either rm1.17 or rm1.19 of the Otago Business School (aka Commerce Building), University of Otago.</p>
+
+
+                    <venue-map geojson-url="venue.geojson" zoom="16"></venue-map>
+
+                </section>
+
+                <h2>Timetable</h2>
+                <p>Please check back before the event for updates</p>
+
+
+
+                <h3>Day 1</h3>
+                <section id="timetable-day1">
+                    <csv-table url="day1.csv" heading-columns="1" heading-rows="1" style="font-size: 75%">
+                        </embedded-google-sheet>
+                </section>
+
+                <h3>Day 2</h3>
+                <section id="timetable-day2">
+                    <csv-table url="day2.csv" heading-columns="1" heading-rows="1" style="font-size: 75%">
+                        </embedded-google-sheet>
+                </section>
+
+                <h3>Day 3</h3>
+                <section id="timetable-day3">
+                    <csv-table url="day3.csv" heading-columns="1" heading-rows="1" style="font-size: 75%">
+                        </embedded-google-sheet>
+                </section>
+
+
         </section>
 
-        <h3>Day 2</h3>
-        <section id="timetable-day2">
-            <csv-table url="day2.csv" heading-columns="1" heading-rows="1" style="font-size: 75%">
-            </embedded-google-sheet>
+        <section id="about">
+
+            <remote-markdown url="come_along.md">
+                <div class="markdown-html"></div>
+            </remote-markdown>
+
+            <remote-markdown url="about.md">
+                <div class="markdown-html"></div>
+            </remote-markdown>
+
         </section>
 
-        <h3>Day 3</h3>
-        <section id="timetable-day3">
-            <csv-table url="day3.csv" heading-columns="1" heading-rows="1" style="font-size: 75%">
-            </embedded-google-sheet>
-        </section>
+
+        <hr />
+        <section id="schedule">
+
+
+            <h1>Workshop sessions</h1>
+            <p>This year workshop spaces will be on a first-come-first-served basis on the day.
+                <p>
+
+                    <p>These are the intended workshop sessions but are subject to change. Make sure to check back before the event
+                    </p>
+                    <p><b>Unless specified otherwise, a laptop is required</b></p>
+
+                    <p>We have an exciting lineup of workshops, all of which will be of an introductory nature and provide a foundation for further learning.</p>
+                    <!-- <p>Click on the name of each session to discover more!</p> -->
 
 
 
-
-      <h2>Venue</h2>
-      <p>The event will be at the University of Otago, with each day starting in room 1.17 of the Otago Business School.</p>
-     
-
-
-    </section>
-
-    <section id="about">
-
-      <remote-markdown url="come_along.md">
-        <div class="markdown-html"></div>
-      </remote-markdown>
-
-      <remote-markdown url="about.md">
-        <div class="markdown-html"></div>
-      </remote-markdown>
-
-    </section>
-
-    <hr />
-    <section id="venue">
-      <h1>Venue (workshops: 5 - 7 July)</h1>
-      <p>The workshops will be held at the Otago Business School (aka Commerce Building), University of Otago.</p>
-	<p>Exact rooms for the workshops will be detailed at the event following the first talk of each day</p>
-
-      <venue-map geojson-url="venue.geojson" zoom="16"></venue-map>
-
-    </section>
-    <hr />
-    <section id="schedule">
-
-
-      <h1>Workshop sessions</h1>
-	    <p>Unlike previous Research Bazaars, this year workshop spaces will be on a first-come-first-served basis on the day.<p>
-
-	<p>These are the intended workshop sessions but are subject to change. Make sure to check back before the event</p>
-      <p><b>Unless specified otherwise, a laptop is required</b></p>
-
-      <p>We have an exciting lineup of workshops, all of which will be of an introductory nature and provide a foundation for further learning.</p>
-      <!-- <p>Click on the name of each session to discover more!</p> -->
-
-
-
-      <!--
+                    <!--
 
 
 
@@ -143,20 +137,20 @@
 		</div>
 	    </simple-columns>
       -->
-    </section>
-    <h2>Workshop timetable</h2>
-    <b>The timetable is currently being decided</b>
-    All workshops within a session are run concurrently in separate rooms. <b>Nearly all workshops will require you to bring a laptop.</b>
+        </section>
+        <h2>Workshop timetable</h2>
+        <b>The timetable is currently being decided</b> All workshops within a session are run concurrently in separate rooms. <b>Nearly all workshops will require you to
+      bring a laptop.</b>
 
-	<p><b>Skill level description:</b><br>
-      In order to convey the skill level of a particular workshop the following terms are used to describe the assumed levels of prior knowledge or experience.<br>
-      <br><b>Beginner</b>: Someone new to the topic with minimal prior knowledge of the workshop topic beyond the stated pre-requisites<br>
-      <br><b>Post-beginner</b>: Greater expectation of prior knowledge or experience beyond the direct topic being covered in the workshop
-    </p>
-	  
-	  <p>Install instructions for each of the workshop sessions are <a href="install_instructions.html">HERE</a></p>
-   <section id="Day1">
-       <!--
+        <p><b>Skill level description:</b><br> In order to convey the skill level of a particular workshop the following terms are used to describe the assumed levels of prior knowledge or experience.<br>
+            <br><b>Beginner</b>: Someone new to the topic with minimal prior knowledge of the workshop topic beyond the stated pre-requisites
+            <br>
+            <br><b>Post-beginner</b>: Greater expectation of prior knowledge or experience beyond the direct topic being covered in the workshop
+        </p>
+
+        <p>Install instructions for each of the workshop sessions are <a href="install_instructions.html">HERE</a></p>
+        <section id="Day1">
+            <!--
       <h3>Monday 11th February</h3>
       Session 1:
       <simple-columns>
@@ -358,10 +352,10 @@
         </div>
       </simple-columns>
     -->
-      <!--<csv-table url="day1.csv" heading-columns="1" heading-rows="1" style="font-size: 75%"></embedded-google-sheet> -->
-    </section>
+            <!--<csv-table url="day1.csv" heading-columns="1" heading-rows="1" style="font-size: 75%"></embedded-google-sheet> -->
+        </section>
 
-    <!--
+        <!--
     <section id="day2">
       <h3>Tuesday 12th February</h3>
 
@@ -530,7 +524,7 @@
 
     </section>
 -->
-    <!--
+        <!--
     <section id="day3">
       <h3>Wednesday 13th February</h3>
 
@@ -623,26 +617,26 @@
 
 
     </section>-->
-    <hr />
-    <section id="come-along">
-      <remote-markdown url="come_along.md">
-        <div class="markdown-html"></div>
-      </remote-markdown>
+        <hr />
+        <section id="come-along">
+            <remote-markdown url="come_along.md">
+                <div class="markdown-html"></div>
+            </remote-markdown>
 
-      <!--<h3>Late workshop registrations are still possible, please email res.baz@otago.ac.nz</h3> -->
+            <!--<h3>Late workshop registrations are still possible, please email res.baz@otago.ac.nz</h3> -->
 
-    </section>
-    <hr />
-    <section id="contact-us">
-      <h1>Contact</h1>
-      <div class="center">
-        <contact-icons email="res.baz@otago.ac.nz" twitter="resbaz" facebook="otagouniversity"></contact-icons>
-      </div>
-    </section>
-  </article>
-  <footer>
-    Copyright &copy; Research Platform Services, University of Melbourne, 2018
-  </footer>
+        </section>
+        <hr />
+        <section id="contact-us">
+            <h1>Contact</h1>
+            <div class="center">
+                <contact-icons email="res.baz@otago.ac.nz" twitter="resbaz" facebook="otagouniversity"></contact-icons>
+            </div>
+        </section>
+    </article>
+    <footer>
+        Copyright &copy; Research Platform Services, University of Melbourne, 2018
+    </footer>
 </body>
 
 </html>
