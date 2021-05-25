@@ -1,4 +1,4 @@
-### Latest News
+# Latest News
 
 After a tough 2020, The ResBaz Sydney Organising Committee is happy to announce:
 
