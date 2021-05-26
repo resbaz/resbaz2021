@@ -4,9 +4,9 @@ The Research Bazaar (ResBaz) is a worldwide festival promoting the digital liter
 
 Perth's ResBaz is a multi-day intensive festival and (un-)conference where researchers come together to up-skill in next generation digital research tools and scholarship. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun. 
 
-In light of the ever-evolving COVID-19 developments, the program organising committee has decided to run a **virtual** ResBaz throughout the week of June 28 2021.
+In light of the ever-evolving COVID-19 developments, the program organising committee has decided to run a **virtual** ResBaz throughout the week of June 28 2021. UPDATE:[New ResBaz Perth 2021 WebSite is now live! Please click here for all event details] (https://curtinic.github.io/ResBazPerth2021/)
 
-You can either join our **[mailing list](https://forms.gle/2eXLRw4qnHQkXjB49)** or follow us on **[Twitter](https://twitter.com/ResBazPerth)** to stay up-to-date.
+You can either join our **[mailing list](https://forms.gle/2eXLRw4qnHQkXjB49)** or follow #PerthResBaz on **[Twitter](https://twitter.com/hashtag/PerthResBaz)** to stay up-to-date.
 
 To understand a little more about ResBaz, watch the video 'Intro to ResBaz Perth' below! 
 
