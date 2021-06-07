@@ -4,30 +4,7 @@ Each day there will be two streams of workshops - one targeted at entry level an
 
 ## Entry level stream Day 1: 
 
-<simple-columns>
-        <div>
-          <expandable-heading title="Introduction to R">
-            R is a programming language that is useful for data analysis, and by learning R you can improve your efficiency and reproducibility of your analysis.
-            This is an introductory session to the R programming language. Participants attending this session can expect by the end of the session to understand:
-            <ul>
-              <li>basic R syntax</li>
-              <li>the components of the RStudio interface</li>
-              <li>how to compute basic statistics</li>
-              <li>where to find further help for R</li>
-            </ul>
-            Useful for:
-            <ul>
-              <li>Data analysis</li>
-              <li>Day 2: functions in R and data manipulation in R</li>
-              <li>Day 3: data visualisation in R</li>
-            </ul>
-            <p>Targeted skill level: beginner</p>
-            <p>Software required: R and RStudio</p>
-          </expandable-heading>
-  </div>
-  </simple-columns>
-  
-          
+
 ### Introduction to R syntax
 
 This workshop will provide an overview of how to get started working with R. This will be done by providing a explaination of the RStudio environment and and introduction to the R programming language syntax.
