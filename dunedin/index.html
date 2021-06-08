@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>ResBaz Dunedin 2021</title>
+
+    <link rel="stylesheet" src="../css/style.css" />
+    <script src="../bower_components/webcomponentsjs/webcomponents-lite.js"></script>
+
+    <link rel="import" href="../components/contact-icons.html">
+    <link rel="import" href="../components/csv-table.html">
+    <link rel="import" href="../components/embedded-google-sheet.html">
+    <link rel="import" href="../components/expandable-heading.html">
+    <link rel="import" href="../components/remote-markdown.html">
+    <link rel="import" href="../components/simple-columns.html">
+    <link rel="import" href="../components/venue-map.html">
+    <link rel="import" href="../bower_components/paper-button/paper-button.html">
+    <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
+    <link rel="import" href="../bower_components/app-layout/app-layout.html">
+    <link rel="import" href="../bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
+
+    <link rel="import" href="../components/common-style.html">
+    <link rel="import" href="../components/resbaz-header.html">
+    <style is="custom-style">
+        resbaz-header {
+            --header-height: 50vh;
+            --header-background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(dunedin.jpg);
+        }
+    </style>
+</head>
+
+<body unresolved>
+    <resbaz-header title="ResBaz Dunedin">
+        <h1>Dunedin</h1>
+        <h2>5 -7 July, 2021</h2>
+    </resbaz-header>
+    <article>
+        <section id="full">
+            <h2>Registration will be opening soon...</h1>
+                <!--<h1>Registration</h1>
+	    <iframe src="https://www.eventbrite.com/tickets-external?eid=54390966846&ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"> </iframe>
+      -->
+
+                <section id="about">
+                    <remote-markdown url="about.md">
+                        <div class="markdown-html"></div>
+                    </remote-markdown>
+
+                    <remote-markdown url="come_along.md">
+                        <div class="markdown-html"></div>
+                    </remote-markdown>
+                </section>
+
+                <section id="venue">
+                    <h2>Venue</h2>
+                    <p>The workshops will be held in either rm1.17 or rm1.19 of the Otago Business School (aka Commerce Building), University of Otago.</p>
+
+
+                    <venue-map geojson-url="venue.geojson" zoom="16"></venue-map>
+
+                </section>
+
+                <section id="schedule">
+                    <h2>Timetable</h2>
+                    <p>Please check back before the event for updates</p>
+
+
+
+
+                    <section id="timetable-day1">
+                        <h3>Monday 5th July</h3>
+                        <div title="day1csv">
+                            <csv-table url="day1.csv" heading-columns="1" heading-rows="1" style="font-size: 75%">
+                                </embedded-google-sheet>
+                        </div>
+                        <div title="day1desc">
+                            <p>Click on workshop names to expand the description</p>
+                            <h4>Entry Stream:</h4>
+                            <simple-columns>
+                                <div>
+                                    <expandable-heading title="Introduction to using R and RStudio">
+                                        <p>This workshop will provide an overview of how to get started working with R. This will be done by providing a explaination of the RStudio environment and and introduction to the R programming language syntax.</p>
+
+                                        <p>Targeted skill level: beginner</p>
+                                        <p>Software required: R and RStudio</p>
+                                    </expandable-heading>
+
+                                    <expandable-heading title="Data analysis in R part 1">
+                                        <p>This workshop will introduce how to get started with data in R using the <em>dplyr</em> and <em>tidyr</em> packages for R which are useful for data manipulation and tidying.</p>
+
+                                        <p>Targeted skill level: beginner</p>
+                                        <p>Software required: R and RStudio</p>
+                                    </expandable-heading>
+
+                                    <expandable-heading title="Data analysis in R part 2">
+                                        <p>This workshop will introduce how to make plots using the <em>ggplot2</em> package in R for visualising data.</p>
+                                        <p>Targeted skill level: beginner</p>
+                                        <p>Software required: R and RStudio</p>
+                                    </expandable-heading>
+
+
+                                </div>
+                            </simple-columns>
+
+                            <h4>Other Stream:</h4>
+
+                            <simple-columns>
+                                <div>
+                                    <expandable-heading title="Delving deeper in to R">
+                                        <p>This workshop will extend your understanding of R and cover how to interact with non-<em>data.frame</em> structured data such as vectors, matrices and lists. We'll also look at creating your own functions and loops.</p>
+                                    </expandable-heading>
+
+                                    <expandable-heading title="More Tidyverse">
+                                        <p>Take the time to explore the lesser known functions and packages of the <em>Tidyverse</em>. Learn about how to access googlesheets, use times/dates, manipulate text, use functional programming to replace loops,
+                                            and more.</p>
+                                    </expandable-heading>
+
+                                    <expandable-heading title="Finding things with regular expressions">
+                                        <p>This workshop will introduce you to the power of regular expressions - a way of searching using patterns. We'll cover how to use patterns to find files, and things in files.</p>
+                                    </expandable-heading>
+
+                                </div>
+                            </simple-columns>
+                        </div>
+                    </section>
+                    <!-- workshopsDay1 -->
+
+
+                    <section id="timetable-day2">
+                        <h3>Tuesday 6th July</h3>
+                        <div title=day2csv>
+                            <csv-table url="day2.csv" heading-columns="1" heading-rows="1" style="font-size: 75%">
+                                </embedded-google-sheet>
+                        </div>
+                        <div title="day2desc">
+                            <p>Click on workshop names to expand the description</p>
+                            <h4>Entry level:</h4>
+                            <simple-columns>
+                                <div>
+                                    <expandable-heading title="Introduction to Data Cleaning with OpenRefine">
+                                        This session will cover using OpenRefine for cleaning and tidying data. By the end of the session attendees should expect to:
+                                        <ul>
+                                            <li>Load data into OpenRefine</li>
+                                            <li>perform basic data cleaning operations</li>
+                                            <li>Export data from OpenRefine</li>
+                                        </ul>
+
+                                        This session would be useful for people who:
+                                        <ul>
+                                            <li>clean and organise data</li>
+                                            <li>want to apply the same data cleaning operation to multiple datasets</li>
+                                        </ul>
+                                        <p>Targeted skill level: beginner</p>
+                                        <p>Software required: OpenRefine</p>
+                                    </expandable-heading>
+
+
+                                    <expandable-heading title="Tidy Projects">
+                                        <p>This workshop will provide a 'good-enough' practices overview for how to go about setting up and working on a project using reproducible research principles.</p>
+                                    </expandable-heading>
+
+                                    <expandable-heading title="Debugging/troubleshotting tips and tricks">
+                                        <p>This session will provide you with advice and skills on how to start tackling error messages and where to look for help.</p>
+                                    </expandable-heading>
+                                </div>
+                            </simple-columns>
+
+                            <h4>Other Stream:</h4>
+                            <simple-columns>
+                                <div>
+
+                                    <expandable-heading title="Creating websites with GitHub">
+                                        <p>This workshop will introduce you to the world of using creating simple websites using the markdown language. A it will involve a pratical application of version control principles which can be applied to other code
+                                            as well. </p>
+
+                                        <ul>
+                                            <li>Creating up a github account</li>
+                                            <li>Creating a repository</li>
+                                            <li>Introduction to markdown syntax for formatting</li>
+                                            <li>Creating a simple webpage with markdown</li>
+                                            <li>Modifying pages and tracking changes</li>
+                                            <li>How to use Github for collaboration</li>
+                                        </ul>
+
+                                        <p>Targeted skill level: beginner</p>
+                                        <p>Software required: web-browser</p>
+                                    </expandable-heading>
+
+                                    <expandable-heading title="Introduction to workflow languages">
+                                        <p>This workshop will introduce you to workflow language systems that are used for creating reproducible research workflows. This workshop will use Snakemake as the example</p>
+                                    </expandable-heading>
+
+                                    <expandable-heading title="Research data management">
+                                        This presentation will cover general best-practice principles of management, storage and sharing of research data. It will include practical tips for improving data management practices that can be implemented immediately regardless of the type of data.
+                                        By attending students will feel better prepared to respond to university, employer, funder and/or publisher data requirements.
+
+                                        <p>Targeted skill level: all</p>
+                                        <p>Software required: none</p>
+                                    </expandable-heading>
+                                </div>
+                            </simple-columns>
+                        </div>
+                    </section>
+                    <!-- workshopsDay2 -->
+
+
+
+                    <section id="timetable-day3">
+                        <h3>Wednesday 7th July</h3>
+                        <div title="day3csv">
+                            <csv-table url="day3.csv" heading-columns="1" heading-rows="1" style="font-size: 75%">
+                                </embedded-google-sheet>
+                        </div>
+                        <div title="day3desc">
+                            <p>Click on workshop names to expand the description</p>
+                            <h4>Entry level:</h4>
+                            <simple-columns>
+                                <div>
+                                    <expandable-heading title="Navigating the UNIX file system">
+                                        The power of the unix shell comes from it's reproduciblity and ability to automate and scale tasks. This is an introductory session to the unix commandline. By the end of this session participants can expect to:
+                                        <ul>
+                                            <li>open the commandline</li>
+                                            <li>understand how to navigate and create files and directories</li>
+                                            <li>run commandline programs</li>
+                                        </ul>
+
+                                        Useful for:
+                                        <ul>
+                                            <li>task automation</li>
+                                            <li>day 2 lessons for Make and Docker</li>
+                                        </ul>
+                                        <p>Targeted skill level: beginner</p>
+                                        <p>Software required: MacOS/Linux - Terminal (comes pre-installed). Windows - GitBash </p>
+                                    </expandable-heading>
+
+                                    <expandable-heading title="Useful code snippets for everyday tasks">
+                                        <p>This session will cover useful code snippets that are designed to improve your overall experience doing computational research. This will include how to customise your BASH and R environments, useful keyboard short
+                                            cuts, and short pieces of code to do common tasks e.g. read a directory of files into R.</p>
+                                    </expandable-heading>
+                                </div>
+                            </simple-columns>
+
+                            <h4>Other Stream:</h4>
+                            <simple-columns>
+                                <div>
+                                    <expandable-heading title="Reproducible computational environments using containers">
+                                        This introductory session will cover creating a reproducible workflow environment using docker images.
+                                        <ul>
+                                            <li>obtain a pre-built docker image</li>
+                                            <li>create a dockerfile to create a custom contatiner</li>
+                                            <li>access the docker container and run a command</li>
+                                            <li>share data between the host and the container</li>
+                                        </ul>
+
+                                        <b>pre-requisites</b>: Introduction to unix shell or equivalent
+                                        <p>Targeted skill level: post-beginner</p>
+                                        <p>Software required: Docker</p>
+                                    </expandable-heading>
+
+                                    <expandable-heading title="Text analysis in R">
+                                        <p>This workshop will...</p>
+                                        </expanding-heading>
+                                </div>
+                            </simple-columns>
+                        </div>
+                    </section>
+                    <!-- workshopsDay3 -->
+
+                </section>
+
+
+                <hr />
+                <section id="workshopsDesc">
+
+                    <h1>Workshop sessions</h1>
+                    <p>This year workshop spaces will be on a first-come-first-served basis on the day.
+                        <p>
+
+                            <p>These are the intended workshop sessions but are subject to change. Make sure to check back before the event
+                            </p>
+                            <p><b>Unless specified otherwise, a laptop is required</b></p>
+
+                            <p>We have an exciting lineup of workshops, all of which will be of an introductory nature and provide a foundation for further learning.</p>
+                            <!-- <p>Click on the name of each session to discover more!</p> -->
+                            Each day there will be two streams of workshops - one targeted at entry level and the other targeted for people with some background knowledge already (i.e. previous ResBaz/Carpentries attendees)
+
+
+
+
+                            <h2>Workshop timetable</h2>
+                            <b>The timetable is currently being decided</b> All workshops within a session are run concurrently in separate rooms. <b>Nearly all workshops will require you to
+                          bring a laptop.</b>
+
+                            <p><b>Skill level description:</b><br> In order to convey the skill level of a particular workshop the following terms are used to describe the assumed levels of prior knowledge or experience.<br>
+                                <br><b>Beginner</b>: Someone new to the topic with minimal prior knowledge of the workshop topic beyond the stated pre-requisites
+                                <br>
+                                <br><b>Post-beginner</b>: Greater expectation of prior knowledge or experience beyond the direct topic being covered in the workshop
+                            </p>
+
+                            <p>Install instructions for each of the workshop sessions are <a href="install_instructions.html">HERE</a></p>
+
+
+
+
+
+
+
+                </section>
+                <!-- workshopDesc -->
+
+
+        </section>
+        <!-- full -->
+
+
+
+
+        <hr />
+        <section id="contact-us">
+            <h1>Contact</h1>
+            <div class="center">
+                <contact-icons email="res.baz@otago.ac.nz" twitter="resbaz" facebook="otagouniversity"></contact-icons>
+            </div>
+        </section>
+
+    </article>
+    <footer>
+        Copyright &copy; Research Platform Services, University of Melbourne, 2018
+    </footer>
+</body>
+
+</html>
