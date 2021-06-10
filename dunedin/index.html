@@ -42,7 +42,7 @@
     </resbaz-header>
     <article>
         <section id="full">
-            <h2>Registration will be opening soon...</h1>
+            <h2>Scroll down for details and registration.</h1>
                 <!--<h1>Registration</h1>
 	    <iframe src="https://www.eventbrite.com/tickets-external?eid=54390966846&ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"> </iframe>
       -->
@@ -59,7 +59,7 @@
 
                 <section id="venue">
                     <h2>Venue</h2>
-                    <p>The workshops will be held in either rm1.17 or rm1.19 of the Otago Business School (aka Commerce Building), University of Otago.</p>
+                    <p>This is an in-person event. The workshops will be held in either rm1.17 or rm1.19 of the Otago Business School (aka Commerce Building), University of Otago.</p>
 
 
                     <venue-map geojson-url="venue.geojson" zoom="16"></venue-map>
@@ -68,9 +68,17 @@
 
                 <section id="schedule">
                     <h2>Timetable</h2>
-                    <p>Please check back before the event for updates</p>
+                    <p>A draft timetable is shown below</p>
 
+                    <p>Workshop sessions are designed to be tasters for the topics rather than comprehensive lessons. A laptop will be required to fully participate in most workshop sessions.</p>
 
+                    <p><b>Skill level description:</b><br> In order to convey the skill level of a particular workshop the following terms are used to describe the assumed levels of prior knowledge or experience.<br>
+                        <br><b>Beginner</b>: Someone new to the topic with minimal prior knowledge of the workshop topic beyond the stated pre-requisites
+                        <br>
+                        <br><b>Post-beginner</b>: Greater expectation of prior knowledge or experience beyond the direct topic being covered in the workshop
+                    </p>
+
+                    <p>In general, the "Entry" stream is recommended for beginners, and the "Other" stream recommended for previous ResBaz or Carpentries workshop attendees.</p>
 
 
                     <section id="timetable-day1">
@@ -114,15 +122,21 @@
                                 <div>
                                     <expandable-heading title="Delving deeper in to R">
                                         <p>This workshop will extend your understanding of R and cover how to interact with non-<em>data.frame</em> structured data such as vectors, matrices and lists. We'll also look at creating your own functions and loops.</p>
+                                        <p>Targeted skill level: post-beginner</p>
+                                        <p>Software required: R and RStudio</p>
                                     </expandable-heading>
 
                                     <expandable-heading title="More Tidyverse">
                                         <p>Take the time to explore the lesser known functions and packages of the <em>Tidyverse</em>. Learn about how to access googlesheets, use times/dates, manipulate text, use functional programming to replace loops,
                                             and more.</p>
+                                        <p>Targeted skill level: post-beginner</p>
+                                        <p>Software required: R and RStudio</p>
                                     </expandable-heading>
 
                                     <expandable-heading title="Finding things with regular expressions">
                                         <p>This workshop will introduce you to the power of regular expressions - a way of searching using patterns. We'll cover how to use patterns to find files, and things in files.</p>
+                                        <p>Targeted skill level: beginner</p>
+                                        <p>Software required: Web browser or UNIX shell</p>
                                     </expandable-heading>
 
                                 </div>
@@ -163,10 +177,15 @@
 
                                     <expandable-heading title="Tidy Projects">
                                         <p>This workshop will provide a 'good-enough' practices overview for how to go about setting up and working on a project using reproducible research principles.</p>
+                                        <p>Targeted skill level: beginner</p>
+                                        <p>Software required: Text editor e.g. notepad or textedit</p>
                                     </expandable-heading>
 
-                                    <expandable-heading title="Debugging/troubleshotting tips and tricks">
+                                    <expandable-heading title="Debugging/troubleshooting tips and tricks">
                                         <p>This session will provide you with advice and skills on how to start tackling error messages and where to look for help.</p>
+
+                                        <p>Targeted skill level: beginner</p>
+                                        <p>Software required: none - but R and RStudio would be uesful</p>
                                     </expandable-heading>
                                 </div>
                             </simple-columns>
@@ -188,12 +207,14 @@
                                             <li>How to use Github for collaboration</li>
                                         </ul>
 
-                                        <p>Targeted skill level: beginner</p>
+                                        <p>Targeted skill level: all</p>
                                         <p>Software required: web-browser</p>
                                     </expandable-heading>
 
                                     <expandable-heading title="Introduction to workflow languages">
                                         <p>This workshop will introduce you to workflow language systems that are used for creating reproducible research workflows. This workshop will use Snakemake as the example</p>
+                                        <p>Targeted skill level: post-beginner</p>
+                                        <p>Software required: to be announced</p>
                                     </expandable-heading>
 
                                     <expandable-heading title="Research data management">
@@ -223,7 +244,7 @@
                             <simple-columns>
                                 <div>
                                     <expandable-heading title="Navigating the UNIX file system">
-                                        The power of the unix shell comes from it's reproduciblity and ability to automate and scale tasks. This is an introductory session to the unix commandline. By the end of this session participants can expect to:
+                                        The power of the unix shell comes from it's reproducibility and ability to automate and scale tasks. This is an introductory session to the unix commandline. By the end of this session participants can expect to:
                                         <ul>
                                             <li>open the commandline</li>
                                             <li>understand how to navigate and create files and directories</li>
@@ -233,7 +254,6 @@
                                         Useful for:
                                         <ul>
                                             <li>task automation</li>
-                                            <li>day 2 lessons for Make and Docker</li>
                                         </ul>
                                         <p>Targeted skill level: beginner</p>
                                         <p>Software required: MacOS/Linux - Terminal (comes pre-installed). Windows - GitBash </p>
@@ -242,6 +262,8 @@
                                     <expandable-heading title="Useful code snippets for everyday tasks">
                                         <p>This session will cover useful code snippets that are designed to improve your overall experience doing computational research. This will include how to customise your BASH and R environments, useful keyboard short
                                             cuts, and short pieces of code to do common tasks e.g. read a directory of files into R.</p>
+                                        <p>Targeted skill level: beginner</p>
+                                        <p>Software required: none - useful:R and RStudio, and UNIX shell</p>
                                     </expandable-heading>
                                 </div>
                             </simple-columns>
@@ -264,7 +286,9 @@
                                     </expandable-heading>
 
                                     <expandable-heading title="Text analysis in R">
-                                        <p>This workshop will...</p>
+                                        <p>This workshop will introduce text analysis in R</p>
+                                        <p>Targeted skill level: post-beginner</p>
+                                        <p>Software required: R and RStudio</p>
                                         </expanding-heading>
                                 </div>
                             </simple-columns>
@@ -273,44 +297,36 @@
                     <!-- workshopsDay3 -->
 
                 </section>
+                <p>Install instructions for each of the workshop sessions are being prepared and will be found at <a href="install_instructions.html">HERE</a></p>
 
 
                 <hr />
-                <section id="workshopsDesc">
+                <section id="registration">
 
-                    <h1>Workshop sessions</h1>
-                    <p>This year workshop spaces will be on a first-come-first-served basis on the day.
-                        <p>
+                    <h1>Registration Instructions</h1>
 
-                            <p>These are the intended workshop sessions but are subject to change. Make sure to check back before the event
-                            </p>
-                            <p><b>Unless specified otherwise, a laptop is required</b></p>
+                    <p>Open to University of Otago students and staff. This is an in-person event.</p>
 
-                            <p>We have an exciting lineup of workshops, all of which will be of an introductory nature and provide a foundation for further learning.</p>
-                            <!-- <p>Click on the name of each session to discover more!</p> -->
-                            Each day there will be two streams of workshops - one targeted at entry level and the other targeted for people with some background knowledge already (i.e. previous ResBaz/Carpentries attendees)
+                    <p>
+                        Select the appropriate ticket(s)
+                        <ul>
+                            <li><em>general admission</em> if you want to attend the talks and have food provided*</li>
+                            <li><em>workshop</em> - if you wish to attend one or more workshops</li>
+                        </ul>
+                    </p>
+                    <p>If you have selected a workshop ticket:
+                        <ul>
+                            <li>Select no more than one workshop per session</li>
+                            <li>If you are a beginner/novice it is recommended to choose from the Entry stream.</li>
+                        </ul>
+                    </p>
+                    Registration will be done through EventBrite. <a href="https://www.eventbrite.com/e/research-bazaar-2021-dunedin-tickets-158667696351">https://www.eventbrite.com/e/research-bazaar-2021-dunedin-tickets-158667696351</a>
 
+                    <p>Registration will close 9:30 Monday June 28th</p>
 
+                    <p>Any questions please email <a href="mailto:carpentries@otago.ac.nz">carpentries@otago.ac.nz</a></p>
 
-
-                            <h2>Workshop timetable</h2>
-                            <b>The timetable is currently being decided</b> All workshops within a session are run concurrently in separate rooms. <b>Nearly all workshops will require you to
-                          bring a laptop.</b>
-
-                            <p><b>Skill level description:</b><br> In order to convey the skill level of a particular workshop the following terms are used to describe the assumed levels of prior knowledge or experience.<br>
-                                <br><b>Beginner</b>: Someone new to the topic with minimal prior knowledge of the workshop topic beyond the stated pre-requisites
-                                <br>
-                                <br><b>Post-beginner</b>: Greater expectation of prior knowledge or experience beyond the direct topic being covered in the workshop
-                            </p>
-
-                            <p>Install instructions for each of the workshop sessions are <a href="install_instructions.html">HERE</a></p>
-
-
-
-
-
-
-
+                    <p><em>*Note that during the registration process you will be asked about your food preferences. We are hoping to be able to provide lunch for attendees, but this request is still going through the University's approval process, so we are not yet sure about our ability to cater this event. This will be confirmed with attendees before the event.</em></p>
                 </section>
                 <!-- workshopDesc -->
 
