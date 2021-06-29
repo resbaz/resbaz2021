@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>ResBaz Dunedin 2021</title>
+
+    <link rel="stylesheet" src="../css/style.css" />
+    <link rel="stylesheet" type="text/css" href="code.css" />
+    <script src="../bower_components/webcomponentsjs/webcomponents-lite.js"></script>
+
+    <link rel="import" href="../components/contact-icons.html">
+    <link rel="import" href="../components/csv-table.html">
+    <link rel="import" href="../components/embedded-google-sheet.html">
+    <link rel="import" href="../components/expandable-heading.html">
+    <link rel="import" href="../components/remote-markdown.html">
+    <link rel="import" href="../components/simple-columns.html">
+    <link rel="import" href="../components/venue-map.html">
+    <link rel="import" href="../bower_components/paper-button/paper-button.html">
+    <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
+    <link rel="import" href="../bower_components/app-layout/app-layout.html">
+    <link rel="import" href="../bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
+
+    <link rel="import" href="../components/common-style.html">
+    <link rel="import" href="../components/resbaz-header.html">
+    <style is="custom-style">
+        resbaz-header {
+            --header-height: 50vh;
+            --header-background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(dunedin.jpg);
+        }
+    </style>
+</head>
+
+<body unresolved>
+    <resbaz-header title="ResBaz Dunedin">
+        <h1>Dunedin</h1>
+        <h2>5 -7 July, 2021</h2>
+    </resbaz-header>
+
+    <article>
+        <h1>Software Setup</h1>
+
+        <p>This page includes instructions for installing:
+            <ul>
+                <li>R and RStudio</li>
+                <li>Bash for UNIX Commandline</li>
+                <li>OpenRefine</li>
+            </ul>
+        </p>
+
+        <section id="R">
+            <h2>Installing R and RStudio</h2>
+
+            <p>The following workshops <b>need</b> to have R and RStudio pre-installed (if possible):
+                <ul>
+                    <li>Entry: Introduction to R and RStudio</li>
+                    <li>Entry: Data analysis with R parts 1 and 2</li>
+                    <li>Other: Delving deeper into R</li>
+                    <li>Other: More Tidyverse</li>
+                    <li>Other: Text analysis in R</li>
+                </ul>
+
+                It would also be useful to have R installed for:
+                <ul>
+                    <li>Entry: Debugging/troubleshooting tips and tricks</li>
+                    <li>Entry: Useful code snippets for everyday tasks</li>
+                </ul>
+            </p>
+            <p><em>Please note:</em> R and RStudio are two different pieces of software - RStudio provides a nice interface for working with R.</p>
+
+            <p>Follow the instructions provided at <a href="https://carpentries.github.io/workshop-template/#r">https://carpentries.github.io/workshop-template/#r</a> to install both R and the RStudio IDE.</p>
+
+
+            <p>If your workshop is an
+                <em>Other</em> stream, please also install the `tidyverse` package by opening RStudio and in the console panel running this command: <code class="language-plaintext highlighter-rouge">install.packages("tidyverse")</code></p>
+        </section>
+
+        <section id="bash">
+            <h2>Installing UNIX commandline</h2>
+            <p> The following workshops need to have a UNIX commandline pre-installed (if possible):
+                <ul>
+                    <li>Entry: Navigating the UNIX file system</li>
+                    <li>Other: Finding things with regular expressions</li>
+                </ul>
+            </p>
+            <p>To install the Bash shell, please follow the instructions found at <a href="https://carpentries.github.io/workshop-template/#shell">https://carpentries.github.io/workshop-template/#shell</a> if you are using Windows. MacOS and Linux users,
+                you will already have a UNIX commandline available through <code class="language-plaintext highlighter-rouge">terminal</code>.</p>
+        </section>
+
+        <section id="openrefine">
+            <h2>Installing OpenRefine</h2>
+
+            <p>The following workshops need to have OpenRefine pre-installed (if possible):
+                <ul>
+                    <li>Introduction to Data Cleaning with OpenRefine</li>
+                </ul>
+
+            </p>
+
+            <p>For this lesson you will need OpenRefine and a web browser. Note: OpenRefine is a Java program that runs on your machine (not in the cloud). It runs inside your browser, but no web connection is needed. Download OpenRefine version 3.4.1 from
+                <a href="http://openrefine.org/download.html">http://openrefine.org/download.html</a>.
+                <ul>
+                    <li>Do not select beta versions or the release candidates.</li>
+                    <li>If you are on Windows and do not have Java installed, download the version <code class="language-plaintext highlighter-rouge">Windows kit with embedded Java</code>.</li>
+                    <li>Unzip the downloaded file into a directory and name that directory something like OpenRefine. </li>
+                    <li>Check below for further instructions depending on your operating system.</li>
+                </ul>
+                OpenRefine requires one of these web browsers:
+                <ul>
+                    <li>Google Chrome</li>
+                    <li>Chromium</li>
+                    <li>Opera</li>
+                    <li>Microsoft Edge</li>
+                </ul>
+            </p>
+            <h3>Running OpenRefine</h3>
+            <h4>Windows</h4>
+            <p>
+                <ul>
+                    <li>Go to your newly created OpenRefine directory. </li>
+                    <li>Launch OpenRefine by double clicking on <code class="language-plaintext highlighter-rouge">openrefine.exe</code> (this will launch a command prompt window first; ignore that, and wait for OpenRefine to launch in the web browser, which
+                        is where you will interact with the program).</li>
+                    <li>If you are using a different browser, or OpenRefine does not automatically open for you, point your browser at http://127.0.0.1:3333/ or http://localhost:3333 to launch the program.</li>
+                </ul>
+            </p>
+            <h4>Mac</h4>
+            <p>
+                <ul>
+                    <li>Go to your newly created OpenRefine directory. </li>
+                    <li>Drag the OpenRefine icon into Applications folder, and <code class="language-plaintext highlighter-rouge">Ctrl-click/Open…</code> it.</li>
+                    <li>If you are using a different browser, or OpenRefine does not automatically open for you, point your browser at http://127.0.0.1:3333/ or http://localhost:3333 to launch the program.</li>
+                </ul>
+            </p>
+            <h4>Linux</h4>
+            <p>
+                <ul>
+                    <li>Navigate to your newly created OpenRefine directory using the command line. </li>
+                    <li>Type <code class="language-plaintext highlighter-rouge">./refine</code> into the terminal within the OpenRefine directory </li>
+                    <li>If you are using a different browser, or OpenRefine does not automatically open for you, point your browser at http://127.0.0.1:3333/ or http://localhost:3333 to launch the program.</li>
+                </ul>
+            </p>
+
+        </section>
+
+
+    </article>
+
+
+</body>
+
+</html>
