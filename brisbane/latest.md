@@ -4,6 +4,8 @@ Planning is currently underway for 2021 ResBazQld events face to face in both Br
 
 What do YOU want to see and do at ResBaz Queensland? Use [this form](https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform) to let us know. 
 
+Check out <a href="https://resbaz.github.io/resbaz2021qld/">our website which has a draft schedule</a>.
+
 We are interested in hearing from people who want to
 
 - run a workshop
