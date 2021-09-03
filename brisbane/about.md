@@ -2,6 +2,8 @@
 
 Research Bazaar is a low cost skill- and community-building festival where researchers come together to upskill in digital research tools and scholarship. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun.
 
+Check out <a href="https://resbaz.github.io/resbaz2021qld/">our website which has a draft schedule</a>.
+
 The 2021 Queensland Research Bazaar will be held in the [Advanced Engineering Building](https://www.eait.uq.edu.au/aeb) at [The University of Queensland](https://www.uq.edu.au/) from **24 to 26 November, 2021**, as a joint collaboration with Queensland University of Technology, Griffith University, the University of Southern Queensland, and the Queensland Cyber Infrastructure Foundation (QCIF). This will be a hybrid event, with face-to-face workshops and sessions complemented by streaming sessions that will be beamed out to other Queensland universities.
 
 Because we aim to go state-wide, we are calling this year's event **ResBaz Queensland** rather than **ResBaz Brisbane**. 
